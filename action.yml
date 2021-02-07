@@ -1,4 +1,4 @@
-name: @thzero/Library Build CI
+name: "@thzero/Library Build CI"
 description: Action to run @thzero/Library Build CI
 inputs:
   type:
